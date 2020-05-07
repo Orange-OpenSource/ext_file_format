@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="80.1544mm" height="74.0388mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3360 3104"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str4 {stroke:#2B2A29;stroke-width:14.7848}
+    .str0 {stroke:#FF7900;stroke-width:7.3903}
+    .str1 {stroke:black;stroke-width:14.7848;stroke-linecap:round;stroke-linejoin:round}
+    .str3 {stroke:black;stroke-width:14.7848;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:14.784799 44.354396}
+    .str2 {stroke:#FF7900;stroke-width:14.7848;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:14.784799 44.354396}
+    .fil2 {fill:none}
+    .fil1 {fill:#D6D6D6}
+    .fil3 {fill:#FF7900}
+    .fil0 {fill:#FFF6B6}
+    .fnt0 {font-style:italic;font-weight:normal;font-size:354.915px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Plan_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="459,4 2686,4 3354,1452 5,1745 "/>
+  <polygon class="fil1 str1" points="1207,3096 1055,2476 1662,1755 2340,1751 "/>
+  <polygon class="fil2 str2" points="1207,1538 1055,918 1662,197 2340,192 "/>
+  <line class="fil2 str3" x1="1207" y1="1640" x2="1207" y2= "1538" />
+  <line class="fil2 str4" x1="1207" y1="3096" x2="1207" y2= "1640" />
+  <line class="fil2 str3" x1="2340" y1="1541" x2="2340" y2= "192" />
+  <line class="fil2 str4" x1="2340" y1="1751" x2="2340" y2= "1541" />
+  <line class="fil2 str3" x1="1662" y1="1600" x2="1662" y2= "997" />
+  <line class="fil2 str4" x1="1662" y1="1755" x2="1662" y2= "1600" />
+  <line class="fil2 str3" x1="1055" y1="1653" x2="1055" y2= "918" />
+  <line class="fil2 str4" x1="1055" y1="2476" x2="1055" y2= "1653" />
+  <text x="209" y="1615"  class="fil3 fnt0">P</text>
+ </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="68.2625mm" height="75.4062mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2337 2581"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#2B2A29;stroke-width:12.074}
+    .str0 {stroke:black;stroke-width:12.074;stroke-linecap:round;stroke-linejoin:round}
+    .fil2 {fill:none}
+    .fil1 {fill:#D6D6D6}
+    .fil4 {fill:#FF7900}
+    .fil0 {fill:white}
+    .fil3 {fill:#FF7900;fill-rule:nonzero}
+    .fnt0 {font-style:italic;font-weight:normal;font-size:289.841px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Plan_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="2337" height="2581"/>
+  <polygon class="fil1 str0" points="845,2505 721,1999 1217,1410 1770,1406 "/>
+  <polygon class="fil1 str0" points="845,1232 721,726 1217,137 1770,133 "/>
+  <line class="fil2 str1" x1="845" y1="2505" x2="845" y2= "1232" />
+  <line class="fil2 str1" x1="1770" y1="1406" x2="1770" y2= "133" />
+  <line class="fil2 str1" x1="1217" y1="1410" x2="1217" y2= "791" />
+  <line class="fil2 str1" x1="721" y1="1999" x2="721" y2= "726" />
+  <g>
+   <path class="fil3" d="M1148 1100l0 756 -36 0 0 -756 36 0zm-3 -37l-30 19 30 0 -93 143 -30 -20 93 -142 30 0zm0 0l-30 0 15 -24 15 24zm78 152l-16 10 -92 -143 30 -19 93 142 -15 10z"/>
+  </g>
+  <text x="902" y="1565"  class="fil4 fnt0">d</text>
+ </g>
+</svg>

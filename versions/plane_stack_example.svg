@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="70.5642mm" height="58.2081mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2753 2271"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#E31E24;stroke-width:27.5259}
+    .str2 {stroke:black;stroke-width:7.80325}
+    .str0 {stroke:#2B2A29;stroke-width:13.761;stroke-dasharray:27.522046 41.283069}
+    .fil3 {fill:none}
+    .fil4 {fill:#2B2A29}
+    .fil6 {fill:#E31E24}
+    .fil0 {fill:#B8EBD6}
+    .fil1 {fill:#D6D6D6}
+    .fil2 {fill:#FFE8F7}
+    .fil5 {fill:white}
+    .fnt0 {font-weight:normal;font-size:137.638px;font-family:'Arial'}
+    .fnt1 {font-style:italic;font-weight:normal;font-size:165.167px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Plan_x0020_2">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="376,1092 1512,1567 1512,1386 376,911 "/>
+  <polygon class="fil1" points="376,2114 1512,2114 1512,1567 376,1092 "/>
+  <rect class="fil2" x="376" y="126" width="1136" height="475"/>
+  <line class="fil3 str0" x1="376" y1="0" x2="376" y2= "2271" />
+  <line class="fil3 str0" x1="1512" y1="0" x2="1512" y2= "2271" />
+  <line class="fil3 str1" x1="249" y1="2114" x2="1640" y2= "2114" />
+  <line class="fil3 str1" x1="249" y1="601" x2="1640" y2= "601" />
+  <line class="fil3 str1" x1="249" y1="126" x2="1640" y2= "126" />
+  <line class="fil3 str1" x1="249" y1="858" x2="1640" y2= "1439" />
+  <line class="fil3 str1" x1="249" y1="1038" x2="1640" y2= "1620" />
+  <g id="_2320252194224">
+   <rect class="fil0 str2" x="1820" y="1793" width="134" height="134"/>
+   <text x="2042" y="1899"  class="fil4 fnt0">green roof</text>
+  </g>
+  <g id="_2320252197072">
+   <rect class="fil1 str2" x="1820" y="1991" width="134" height="134"/>
+   <text x="2042" y="2097"  class="fil4 fnt0">building</text>
+  </g>
+  <g id="_2320252197904">
+   <rect class="fil5 str2" x="1820" y="1397" width="134" height="134"/>
+   <text x="2042" y="1503"  class="fil4 fnt0">empty</text>
+  </g>
+  <g id="_2320252199312">
+   <rect class="fil2 str2" x="1820" y="1595" width="134" height="134"/>
+   <text x="2042" y="1701"  class="fil4 fnt0">bridge deck</text>
+  </g>
+  <text x="-7" y="2173"  class="fil6 fnt1">P1</text>
+  <text x="-7" y="1098"  class="fil6 fnt1">P2</text>
+  <text x="-7" y="916"  class="fil6 fnt1">P3</text>
+  <text x="-7" y="660"  class="fil6 fnt1">P4</text>
+  <text x="-7" y="185"  class="fil6 fnt1">P5</text>
+ </g>
+</svg>

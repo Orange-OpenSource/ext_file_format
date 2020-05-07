@@ -1,0 +1,10 @@
+name: Markdown Linter
+
+on: [push, pull_request]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+     - name: mdl lint
+       uses: bewuethr/mdl-action@v1
