@@ -56,7 +56,7 @@ The corresponding .EXT files are:
 *Figure 2 — Vectors from [la_defense.mif](sample/la_defense.mif) (left) and their .EXT files assignements (right).*
 
 ## Software Support
-Below is a list known softwares with full .EXT file support:
+Below is a list of known softwares with full .EXT file support:
 
 - CrossWave 520
 - MYRIAD Model 520
