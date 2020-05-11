@@ -60,7 +60,7 @@ Below is a list known softwares with full .EXT file support:
 
 - CrossWave 520
 - MYRIAD Model 520
-- Universal Model 520
+- Universal Model 530
 
 ## Licensing
 Copyright Orange 2020
