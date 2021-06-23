@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelConfiguration>
+	<Version>6</Version>
+	<ParametresGeo>
+		<ChaineProjection>
+			<EpsgId>27582</EpsgId>
+			<Description>NTF (Paris) / France II (deprecated)</Description>
+			<Proj4String>+proj=lcc +lat_1=46.8 +lat_0=46.8 +lon_0=0 +k_0=0.99987742 +x_0=600000 +y_0=2200000 +a=6378249.2 +b=6356515 +towgs84=-168,-60,320,0,0,0,0 +pm=paris +units=m +no_defs +type=crs</Proj4String>
+			<CoordSysString>Coordsys Earth Projection 3, 1002, &quot;m&quot;, 0, 46.8, 45.898918964419, 47.696014502038, 600000, 2200000</CoordSysString>
+			<Custom>0</Custom>
+			<BoundingBox>
+				<lat0>42.250000</lat0>
+				<lng0>-5.200000</lng0>
+				<lat1>51.100000</lat1>
+				<lng1>8.230000</lng1>
+			</BoundingBox>
+		</ChaineProjection>
+		<Materiaux>
+			<materiau classe="building">Concrete (default)</materiau>
+			<materiau classe="forest">Void</materiau>
+			<materiau classe="bridge">Concrete (default)</materiau>
+			<materiau classe="river">Freshwater (default)</materiau>
+			<materiau classe="sea">Seawater (default)</materiau>
+			<materiau classe="ground">Ground (default)</materiau>
+			<materiau classe="air">Void</materiau>
+			<materiau classe="city_ground">Void</materiau>
+			<materiau classe="factory">Metal (default)</materiau>
+			<materiau classe="hqe_building">Glass (default)</materiau>
+			<materiau classe="square_park">Void</materiau>
+			<materiau classe="very_sparse_forest">Void</materiau>
+			<materiau classe="sparse_forest">Void</materiau>
+			<materiau classe="dense_forest">Void</materiau>
+			<materiau classe="very_dense_forest">Void</materiau>
+			<materiau classe="custom_1">Void</materiau>
+			<materiau classe="custom_2">Void</materiau>
+			<materiau classe="custom_3">Void</materiau>
+			<materiau classe="custom_4">Void</materiau>
+			<materiau classe="custom_5">Void</materiau>
+			<materiau classe="custom_6">Void</materiau>
+			<materiau classe="custom_7">Void</materiau>
+			<materiau classe="custom_8">Void</materiau>
+			<materiau classe="custom_9">Void</materiau>
+			<materiau classe="custom_10">Void</materiau>
+			<materiau classe="custom_11">Void</materiau>
+			<materiau classe="custom_12">Void</materiau>
+			<materiau classe="custom_13">Void</materiau>
+			<materiau classe="custom_14">Void</materiau>
+			<materiau classe="custom_15">Void</materiau>
+		</Materiaux>
+		<Milieux>
+			<milieu classe="building">Building (default)</milieu>
+			<milieu classe="forest">Forest (default)</milieu>
+			<milieu classe="bridge">Concrete (default)</milieu>
+			<milieu classe="river">Freshwater (default)</milieu>
+			<milieu classe="sea">Seawater (default)</milieu>
+			<milieu classe="ground">Ground (default)</milieu>
+			<milieu classe="air">Void</milieu>
+			<milieu classe="city_ground">Street (default)</milieu>
+			<milieu classe="factory">Void</milieu>
+			<milieu classe="hqe_building">Building (default)</milieu>
+			<milieu classe="square_park">Square park (default)</milieu>
+			<milieu classe="very_sparse_forest">Very Sparse Forest (default)</milieu>
+			<milieu classe="sparse_forest">Sparse Forest (default)</milieu>
+			<milieu classe="dense_forest">Dense Forest (default)</milieu>
+			<milieu classe="very_dense_forest">Very Dense Forest (default)</milieu>
+			<milieu classe="custom_1">Void</milieu>
+			<milieu classe="custom_2">Void</milieu>
+			<milieu classe="custom_3">Void</milieu>
+			<milieu classe="custom_4">Void</milieu>
+			<milieu classe="custom_5">Void</milieu>
+			<milieu classe="custom_6">Void</milieu>
+			<milieu classe="custom_7">Void</milieu>
+			<milieu classe="custom_8">Void</milieu>
+			<milieu classe="custom_9">Void</milieu>
+			<milieu classe="custom_10">Void</milieu>
+			<milieu classe="custom_11">Void</milieu>
+			<milieu classe="custom_12">Void</milieu>
+			<milieu classe="custom_13">Void</milieu>
+			<milieu classe="custom_14">Void</milieu>
+			<milieu classe="custom_15">Void</milieu>
+		</Milieux>
+		<ParametresS3d>
+			<MateriauxReflechissants>
+				<materiau nom="Concrete (default)">outdoor</materiau>
+				<materiau nom="Freshwater (default)">outdoor</materiau>
+				<materiau nom="Glass (default)">outdoor</materiau>
+				<materiau nom="Ground (default)">outdoor</materiau>
+				<materiau nom="Perfect Reflector (default)">outdoor</materiau>
+				<materiau nom="Seawater (default)">outdoor</materiau>
+			</MateriauxReflechissants>
+			<MateriauxTransmettants>
+				<materiau nom="Concrete (default)">indoor,outdoor</materiau>
+				<materiau nom="Ground (default)">indoor,outdoor</materiau>
+				<materiau nom="Perfect Transmitter (default)">indoor,outdoor</materiau>
+				<materiau nom="Void">indoor,outdoor</materiau>
+			</MateriauxTransmettants>
+			<MateriauxDiffractants>
+				<materiau nom="Concrete (default),Concrete (default)">indoor,outdoor</materiau>
+				<materiau nom="Concrete (default),Glass (default)">outdoor</materiau>
+				<materiau nom="Glass (default),Concrete (default)">outdoor</materiau>
+				<materiau nom="Glass (default),Glass (default)">outdoor</materiau>
+			</MateriauxDiffractants>
+			<MateriauxAProfil>
+				<materiau nom="Concrete (default),Concrete (default)">outdoor</materiau>
+				<materiau nom="Concrete (default),Glass (default)">outdoor</materiau>
+				<materiau nom="Concrete (default),Ground (default)">outdoor</materiau>
+				<materiau nom="Glass (default),Concrete (default)">outdoor</materiau>
+				<materiau nom="Glass (default),Glass (default)">outdoor</materiau>
+				<materiau nom="Glass (default),Ground (default)">outdoor</materiau>
+				<materiau nom="Ground (default),Concrete (default)">outdoor</materiau>
+				<materiau nom="Ground (default),Glass (default)">outdoor</materiau>
+				<materiau nom="Ground (default),Ground (default)">outdoor</materiau>
+			</MateriauxAProfil>
+			<ParametresBdv>
+				<NomMetaDonneeClasse>Class</NomMetaDonneeClasse>
+				<NomMetaDonneeIdVecteur>id</NomMetaDonneeIdVecteur>
+				<NomMetaDonneeEpaisseur/>
+				<NomMetaDonneeHauteurRelative>building</NomMetaDonneeHauteurRelative>
+				<NomMetaDonneeHauteurRelativeFeet/>
+				<NomMetaDonneeHauteurAbsolue/>
+				<NomMetaDonneeHauteurAbsolueFeet/>
+				<NomMetaDonneeUrlFichierExtrudation>extFile</NomMetaDonneeUrlFichierExtrudation>
+				<NomMetaDonneeAltitudeAbsolueReference/>
+				<HauteurRues>0.000000</HauteurRues>
+				<TablesDesClasses>
+					<classe nom="Building">building</classe>
+					<classe nom="HQE_Building">hqe_building</classe>
+					<classe nom="Air">air</classe>
+				</TablesDesClasses>
+				<ParametresImportBdmMnt/>
+				<ParametresImportBdv>
+					<Url>halles.mif</Url>
+					<ObjectTypes>255</ObjectTypes>
+					<MetaDataFilter>*</MetaDataFilter>
+				</ParametresImportBdv>
+			</ParametresBdv>
+		</ParametresS3d>
+	</ParametresGeo>
+	<ParametresRadio>
+		<ParametresMasquage>
+			<Metriques>path_loss</Metriques>
+			<RayonMoyennage>1.000000</RayonMoyennage>
+			<AlgorithmeMasquage>narrowband</AlgorithmeMasquage>
+		</ParametresMasquage>
+		<EvaluateurTrajet>pathloss</EvaluateurTrajet>
+		<AlgorithmeRetroTracer>geometrical_optics</AlgorithmeRetroTracer>
+		<FichierMateriau/>
+	</ParametresRadio>
+	<ParametresLancer>
+		<PasAngulaireDiffraction>30</PasAngulaireDiffraction>
+		<NbApplicationPhenomenes>
+			<Max phenomene="diffraction">0</Max>
+			<Max phenomene="diffusion">0</Max>
+			<Max phenomene="profil">0</Max>
+			<Max phenomene="reflexion">2</Max>
+			<Max phenomene="transmission">1</Max>
+		</NbApplicationPhenomenes>
+	</ParametresLancer>
+</ModelConfiguration>
