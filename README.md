@@ -37,23 +37,23 @@ Please understand that pull requests will be reviewed by Orange and that some im
 
 _La Grande Arche_ is an iconic building of the district of _La Défense_ in Paris, France.
 It is also the historical motivation for specifying a way to embed 3D models into GIS vector data.  
-The [sample](sample) folder of this repository contains the GIS vector files [la_defense.mif](sample/la_defense.mif) and [la_defense.mid](sample/la_defense.mid) of _La Grande Arche_.
+The [sample](sample) folder of this repository contains the GIS vector files [la_defense.mif](sample/la_defense/la_defense.mif) and [la_defense.mid](sample/la_defense/la_defense.mid) of _La Grande Arche_.
 Together, they depict the building as a solid cube (figure 1 left), which height is read from the _height_ attribute in the [mid](sample/la_defense.mid) file.
 
-![](sample/2.5dBuilding.png) ![](sample/3dBuilding.png)  
+![](sample/la_defense/2.5dBuilding.png) ![](sample/la_defense/3dBuilding.png)  
 *Figure 1 — Legacy GIS cube model (left) of* La Grande Arche de la Défense *versus the .EXT enhanced model (right).*
 
 However, with the appropriate extrudation instructions (figure 2), the tesseract shape of the building can successfully be rendered (figure 1 right).
 The corresponding .EXT files are:
 
-1. [back.ext](sample/back.ext)
-2. [middle_square.ext](sample/middle_square.ext)
+1. [back.ext](sample/la_defense/back.ext)
+2. [middle_square.ext](sample/la_defense/middle_square.ext)
 3. none (based on the _height_ attribute)
-4. [middle.ext](sample/middle.ext)
-5. [front.ext](sample/front.ext)
+4. [middle.ext](sample/la_defense/middle.ext)
+5. [front.ext](sample/la_defense/front.ext)
 
-![](sample/assignments.svg)  
-*Figure 2 — Vectors from [la_defense.mif](sample/la_defense.mif) (left) and their .EXT files assignements (right).*
+![](sample/la_defense/assignments.svg)  
+*Figure 2 — Vectors from [la_defense.mif](sample/la_defense/la_defense.mif) (left) and their .EXT files assignements (right).*
 
 ## Software Support
 Below is a list of known softwares with full .EXT file support:
