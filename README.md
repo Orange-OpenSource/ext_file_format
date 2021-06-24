@@ -7,7 +7,7 @@ An .EXT file is a Geographic Information Systems (GIS) format designed to add 3D
 ## Current Version — 1.0.0
 The current version of the .EXT file format is [1.0.0](versions/1.0.0.md).
 
-### Future Verions
+### Future Versions
 
 1.0.1 — Patches (grammar, spelling, wording) must be submitted against this branch.
 
@@ -43,7 +43,7 @@ Together, they depict the building as a solid cube (figure 1 left), which heigh
 ![](sample/la_defense/2.5dBuilding.png) ![](sample/la_defense/3dBuilding.png)  
 *Figure 1 — Legacy GIS cube model (left) of* La Grande Arche de la Défense *versus the .EXT enhanced model (right).*
 
-However, with the appropriate extrudation instructions (figure 2), the tesseract shape of the building can successfully be rendered (figure 1 right).
+However, with the appropriate extrusion instructions (figure 2), the tesseract shape of the building can successfully be rendered (figure 1 right).
 The corresponding .EXT files are:
 
 1. [back.ext](sample/la_defense/back.ext)
