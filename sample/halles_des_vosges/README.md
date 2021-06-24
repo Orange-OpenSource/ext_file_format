@@ -16,7 +16,7 @@ Without using *.ext* extrudation and basing the 3D model only on GIS vector data
 ![figure 2](./halles_GIS.png)
 *Figure 2 — Halles without .ext enhancement*
 
-[Figure 3]() shows the result of the extrudation of the building. Concrete is shown in grey, and glass in blue.
+[Figure 3]() shows the result of the extrudation of the building. Concrete is shown in grey, and glass in blue. The concrete wall only appears all around the building, hence the need to have the walls in separate regions. 
 
 ![figure 3](./halles_front.png) ![](./halles_back.png)
 *Figure 3 — Enhanced building front (left) and back (right)*
