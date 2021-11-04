@@ -35,13 +35,13 @@ Please understand that pull requests will be reviewed by Orange and that some im
 
 ## Samples
 
-### [_La Grande Arche_](sample/la_defense/README.md)
-
 ![](sample/la_defense/3dBuilding.png)  
 
-### [_Halles des Vosges_](sample/halles_des_vosges/README.md)
+[_La Grande Arche_](sample/la_defense/README.md)
 
-![](sample/halles_des_vosges/halles_back.png)
+![](sample/halles_des_vosges/halles_back.png)  
+
+[_Halles des Vosges_](sample/halles_des_vosges/README.md)
 
 ## Software Support
 
