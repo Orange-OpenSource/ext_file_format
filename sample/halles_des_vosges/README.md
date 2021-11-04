@@ -1,5 +1,3 @@
-![Markdown Linter](https://github.com/Orange-OpenSource/ext_file_format/workflows/Markdown%20Linter/badge.svg)
-
 # *Halles des Vosges*, Belfort, France
 
 This sample is a demonstration of multi-material building with a slopped roof. It is composed of both glass and concrete. The main part has two slopes, divided in two parts each. Two smaller buildings are attached in the back, each with slopped roofs too.

@@ -1,3 +1,5 @@
+# _La Grande Arche_, Paris, France
+
 _La Grande Arche_ is an iconic building of the district of _La Défense_ in Paris, France.
 It is also the historical motivation for specifying a way to embed 3D models into GIS vector data.  
 This directory contains the GIS vector files [la_defense.mif](la_defense.mif) and [la_defense.mid](la_defense.mid) of _La Grande Arche_.
