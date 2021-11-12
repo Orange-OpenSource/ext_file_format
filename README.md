@@ -43,6 +43,10 @@ Please understand that pull requests will be reviewed by Orange and that some im
 
 [_Halles des Vosges_](sample/halles_des_vosges/README.md)
 
+![](sample/blueprint/3d-render.png)  
+
+[Building blueprints](sample/blueprint/README.md)
+
 ## Software Support
 
 Below is a list of known softwares with full .EXT file support:
